@@ -30,5 +30,13 @@ This Chrome extension makes it **quick and easy** to start WhatsApp chats direct
 
 🚀 Try it out and streamline your messaging workflow!
 
+## If you download from here, the installation method
+1. Open Google Chrome.
+2. Go to chrome://extensions/.
+3. Enable Developer Mode (toggle in the top-right corner).
+4. Click "Load unpacked".
+5. Select the extension folder containing manifest.json.
+6. Reminder to go Option to set country prefix
+
 ## Support Me 💖
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/mattchoo2)
